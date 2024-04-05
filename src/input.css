@@ -15,5 +15,9 @@
     .ff-secondary{  
        font-family:  'Open Sans', sans-serif;
     } 
- 
+    
+    .clr-main:hover{
+        background-color: hsla(0, 100%, 66%, 1);
+        
+    }
 
