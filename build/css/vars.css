@@ -1,0 +1,20 @@
+/* custom properties */
+:root{
+    /* FONTS */
+    /* font-family */
+    --ff-main: 'Raleway', sans-serif;
+    --ff-secondary: 'Open Sans', sans-serif;
+    /* font size*/
+    --fs-xl: 6.25rem; /* 100px*/
+    --fs-lg: 3.125rem; /* 50px*/
+    --fs-md: 1.375rem; /* 22px*/
+    --fs-sm: 1.25rem; /* 20px*/
+    /* font weight */
+    --fw-bk: 900;
+    --fw-bd: 700;
+    --fw-md: 500;
+    /* colors */
+    --clr-main-bg: hsla(90, 4%, 11%, 1);
+    --clr-white: hsla(0, 100%, 100%, 1);
+    --clr-red: hsla(0, 100%, 66%, 1);
+}
